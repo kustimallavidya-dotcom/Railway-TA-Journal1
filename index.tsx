@@ -1,0 +1,1 @@
+// All logic has been moved to index.html to resolve React version conflicts and provide a zero-build standalone execution.

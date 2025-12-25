@@ -1,0 +1,5 @@
+{
+  "name": "RailSafar - TA Journal PWA",
+  "description": "An offline-first PWA for Indian Railway employees to manage Travelling Allowance (TA) journals daily and print official formats at month-end.",
+  "requestFramePermissions": []
+}
